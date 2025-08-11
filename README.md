@@ -4,17 +4,16 @@ Some lab works from my course covering key topics in Machine Learning, Neural Ne
 ## 📂 Structure
 ### 1️⃣ Machine_Learning_Lab
 - DBSCAN, Decision Trees, Hierarchical Clustering, KNN, k-Means.
-
 - Datasets: Mall Customers, Drug Dataset, Iris.
 
 ### 2️⃣ Neural_Network_Lab
-= TSK Models with membership functions.
+- TSK Models with membership functions.
 - Mamdani Fuzzy Inference, fuzzy sets.
 - k-Means and Overlapping Clustering.
 
 ### 3️⃣ Image_Processing_Lab
 - RGB to Gray, histogram ops, thresholding.
-= Smoothing, sharpening, contrast stretching.
+- Smoothing, sharpening, contrast stretching.
 - Edge detection (Prewitt), morphological ops, chain codes.
 
 ### 4️⃣ Numerical_Methods_Lab
